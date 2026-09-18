@@ -1,0 +1,3 @@
+jupyterlab
+pyserial
+matplotlib
